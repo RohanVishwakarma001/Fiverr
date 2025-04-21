@@ -1,0 +1,7 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+.navbar .container {
+  width: 1400px;
+}/*# sourceMappingURL=Navbar.css.map */
